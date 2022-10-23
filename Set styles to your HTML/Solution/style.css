@@ -1,0 +1,11 @@
+
+#pageContent {background-image: url("background.jpg"); font-family: Roboto; text-align: center;}
+.z1, .z2 {font-style: italic; color: green;}
+#header {color: #778591;}
+#footer {color: #878986;}
+.link:hover {color: #7af786;}
+.m30 {margin: 30px;}
+.p45 {padding: 45px;}
+.bordered {border: 2px dashed red;}
+
+p    {color: red;}
